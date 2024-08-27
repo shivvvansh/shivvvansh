@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm shivansh barapatre</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Java Fullstack developer from India</h3>
 
 - 🌱 I’m currently learning **Core features of web2**
 
 - 👨‍💻 All of my projects are available at [https://github.com/shivvvansh](https://github.com/shivvvansh)
 
-- 💬 Ask me about **React , ExpressJs, Mongodb, NodeJs, Tailwind css**
+- 💬 Ask me about **Java, servlet, JSP, SQL, Javascript, ReactJs & React hook, ExpressJs, Mongodb, NodeJs, **
 
-- email **shivanshbarapatre007@gmail.com**
+- email**hello.shivvvansh@gmail.com**
+-  **shivanshbarapatre007@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

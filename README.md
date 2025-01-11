@@ -103,7 +103,7 @@ Mastering cloud security with a focus on resilience, cost-optimization, and perf
 ---
 
 ## **🌐 Let's Connect**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivansh-barapatre-a38b99303?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivvvansh)
 
 [![](https://visitcount.itsvg.in/api?id=Kzax01&icon=6&color=5)](https://visitcount.itsvg.in)
 

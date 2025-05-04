@@ -6,21 +6,7 @@ Dive into my journey toward becoming a **DevOps Engineer**! 🚀 I also have exp
 ![Shivvvansh Cloud Banner](https://github.com/shivvvansh/background-generator/blob/main/Banner/banner%20Cloud.png?raw=true)
 
 ---
-## 🏆 Achievements :
-From designing the architecture to migrate data to AWS, to building a service recommendation system for potential clients at F13, I've explored a wide range of AWS-focused projects and certifications. These have helped me strengthen my understanding of cloud technologies and their real-world applications.
 
-📜 AWS Certifications & Courses Completed:
-
-✅ AWS DevOps Navigate Technical
-✅ AWS Cloud Economics
-✅ AWS Partner: IoT on AWS (Technical)
-✅ AWS DevOps Navigate
-✅ AWS Well-Architected Foundations
-✅ Introduction to Building with AWS Databases
-✅ AWS Partner: Accreditation (Technical)
-✅ No-Code Machine Learning and Generative AI on AWS
-
----
 ## **🌥️ DevOps Skills**  
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -121,6 +107,21 @@ Check out my collection of AWS Architecture projects where I design solutions ba
 
 - 👨‍💻 All of my projects 🛠️ are available at [https://github.com/shivvvansh](https://github.com/shivvvansh)
 - Email: hello.shivvvansh@gmail.com
+
+---
+## 🏆 Achievements :
+From designing the architecture to migrate data to AWS, to building a service recommendation system for potential clients at F13, I've explored a wide range of AWS-focused projects and certifications. These have helped me strengthen my understanding of cloud technologies and their real-world applications.
+
+📜 AWS Certifications & Courses Completed:
+
+✅ AWS DevOps Navigate Technical
+✅ AWS Cloud Economics
+✅ AWS Partner: IoT on AWS (Technical)
+✅ AWS DevOps Navigate
+✅ AWS Well-Architected Foundations
+✅ Introduction to Building with AWS Databases
+✅ AWS Partner: Accreditation (Technical)
+✅ No-Code Machine Learning and Generative AI on AWS
 
 ---
 

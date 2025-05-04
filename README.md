@@ -57,6 +57,14 @@ Mastering cloud security with a focus on resilience, cost-optimization, and perf
 </div>
 
 ---
+## **🌟 AWS Architecture Projects 🛠️** :
+
+Check out my collection of AWS Architecture projects where I design solutions based on real-life scenarios and/or I create full articles to breakdown difficult concepts into easy ones :
+
+- **[🛒 How to Migrate an E-commerce Website with Variable Traffic to AWS](https://github.com/shivvvansh/AWS-E-commerce-migration-architecture)**
+- **[🛒 GitOps-Driven Infrastructure Automation & Container Deployment](https://github.com/shivvvansh/vprofile-action.git)**
+- **[🔄 Containerized Application Deployment on Kubernetes Cluster](https://github.com/shivvvansh/kubeApp.git)**
+- **[🛒 Static Website Hosting on AWS]()**
 
 ## **🐍 Scripting Languages**  
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">

@@ -14,7 +14,7 @@ Dive into my journey toward becoming a **DevOps Engineer**! 🚀 I also have exp
 [![OCI 2024 Foundations Associate](https://img.shields.io/badge/OCI%20Foundations%20Associate-2024-%23000000?style=plastic&logo=oracle&logoColor=white&label=Oracle&labelColor=F80000)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BBED7B8A5C00C7F0584C8C708F51672810CD5E713F0D28C443C9E066D926E863)
 [![OCI 2024 AI Foundations Associate](https://img.shields.io/badge/OCI%20AI%20Foundations%20Associate-2024-%23000000?style=plastic&logo=oracle&logoColor=white&label=Oracle&labelColor=F80000)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C7694044F028FEA21664C0AF4D3D7702ADCAC80ED5C24CBC87F19104E37ACF71)
 [![OCI 2024 Data Foundations Associate](https://img.shields.io/badge/OCI%20Data%20Foundations%20Associate-2024-%23000000?style=plastic&logo=oracle&logoColor=white&label=Oracle&labelColor=F80000)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BBED7B8A5C00C7F0584C8C708F51672863E2DB4B24AD6F03ACDDE6BDD27AD384)
-[![DevOps Course](https://img.shields.io/badge/DevOps%20Course-DevOpsBeginners%20to%20Advanced-%23000000?style=plastic&logo=udemy&logoColor=white&label=Udemy&labelColor=A435F0)](http://ude.my/UC-55d606b3-58c7-490f-b3f2-231a8abc66bb)
+[![DevOps Course](https://img.shields.io/badge/DevOps%20Course-DevOps%20Beginners%20to%20Advanced-%23000000?style=plastic&logo=udemy&logoColor=white&label=Udemy&labelColor=A435F0)](http://ude.my/UC-55d606b3-58c7-490f-b3f2-231a8abc66bb)
 
 ----
 ## **🌥️ DevOps Skills**  

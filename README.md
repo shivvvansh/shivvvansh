@@ -7,6 +7,16 @@ Dive into my journey toward becoming a **DevOps Engineer**! 🚀 I also have exp
 
 ---
 
+### 🌩️ Cloud Certifications
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS%20Certified%20Cloud%20Practitioner-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=32CD32)](https://www.credly.com/badges/58c2208c-cc1d-419a-aeae-f884c24f36fd/public_url)
+[![Microsoft Azure Fundamentals](https://img.shields.io/badge/Microsoft%20Azure%20Fundamentals-%230072C6?style=plastic&logo=microsoft-azure&logoColor=white&label=Azure&labelColor=0072C6)](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+[![OCI 2024 Foundations Associate](https://img.shields.io/badge/OCI%20Foundations%20Associate-2024-%23000000?style=plastic&logo=oracle&logoColor=white&label=Oracle&labelColor=F80000)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=BBED7B8A5C00C7F0584C8C708F51672810CD5E713F0D28C443C9E066D926E863)
+[![OCI 2024 AI Foundations Associate](https://img.shields.io/badge/OCI%20AI%20Foundations%20Associate-2024-%23000000?style=plastic&logo=oracle&logoColor=white&label=Oracle&labelColor=F80000)](https://catalog-education.oracle.com/pls/certview/sharebadge?id=C7694044F028FEA21664C0AF4D3D7702ADCAC80ED5C24CBC87F19104E37ACF71)
+[![OCI 2024 Data Foundations Associate](https://img.shields.io/badge/OCI%20Data%20Foundations%20Associate-2024-%23000000?style=plastic&logo=oracle&logoColor=white&label=Oracle&labelColor=F80000)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=BBED7B8A5C00C7F0584C8C708F51672863E2DB4B24AD6F03ACDDE6BDD27AD384)
+[![DevOps Course](https://img.shields.io/badge/DevOps%20Course-Beginners%20to%20Advanced-%23000000?style=plastic&logo=udemy&logoColor=white&label=Udemy&labelColor=A435F0)](http://ude.my/UC-55d606b3-58c7-490f-b3f2-231a8abc66bb)
+
+----
 ## **🌥️ DevOps Skills**  
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
@@ -112,16 +122,17 @@ Check out my collection of AWS Architecture projects where I design solutions ba
 ## 🏆 Achievements :
 From designing the architecture to migrate data to AWS, to building a service recommendation system for potential clients at F13, I've explored a wide range of AWS-focused projects and certifications. These have helped me strengthen my understanding of cloud technologies and their real-world applications.
 
-📜 AWS Certifications & Courses Completed:
+### 🚀 AWS Skills & Accreditations
 
-✅ AWS DevOps Navigate Technical
-✅ AWS Cloud Economics
-✅ AWS Partner: IoT on AWS (Technical)
-✅ AWS DevOps Navigate
-✅ AWS Well-Architected Foundations
-✅ Introduction to Building with AWS Databases
-✅ AWS Partner: Accreditation (Technical)
-✅ No-Code Machine Learning and Generative AI on AWS
+[![AWS DevOps Navigate Technical](https://img.shields.io/badge/AWS%20DevOps%20Navigate%20(Technical)-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)]()
+[![AWS Cloud Economics](https://img.shields.io/badge/AWS%20Cloud%20Economics-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)](https://www.credly.com/badges/fc03f4d4-8c22-4623-b68a-3903af9244d2/public_url)
+[![AWS IoT Partner Technical](https://img.shields.io/badge/AWS%20IoT%20Partner%20(Technical)-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)]()
+[![AWS DevOps Navigate](https://img.shields.io/badge/AWS%20DevOps%20Navigate-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)]()
+[![AWS Well-Architected Foundations](https://img.shields.io/badge/AWS%20Well--Architected%20Foundations-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)]()
+[![AWS Databases Intro](https://img.shields.io/badge/Intro%20to%20Building%20with%20AWS%20Databases-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)]()
+[![AWS Partner Accreditation Technical](https://img.shields.io/badge/AWS%20Partner%20Accreditation%20(Technical)-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)](https://www.credly.com/badges/cf03b227-8682-4197-ba4a-801510fe0540/public_url)
+[![No-Code ML & Gen AI on AWS](https://img.shields.io/badge/No--Code%20ML%20%26%20Generative%20AI%20on%20AWS-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)]()
+
 
 ---
 

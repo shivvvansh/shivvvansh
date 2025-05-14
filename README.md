@@ -123,13 +123,13 @@ From designing the architecture to migrate data to AWS, to building a service re
 
 ### 🚀 AWS Skills & Accreditations
 
-[![AWS DevOps Navigate Technical](https://img.shields.io/badge/AWS%20DevOps%20Navigate%20(Technical)-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)]()✅ AWS DevOps Navigate Technical  <br>
-[![AWS Cloud Economics](https://img.shields.io/badge/AWS%20Cloud%20Economics-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)](https://www.credly.com/badges/fc03f4d4-8c22-4623-b68a-3903af9244d2/public_url)✅ AWS Cloud Economics  <br>
-[![AWS IoT Partner Technical](https://img.shields.io/badge/AWS%20IoT%20Partner%20(Technical)-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)]()✅ AWS Partner: IoT on AWS (Technical)  <br>
-[![AWS DevOps Navigate](https://img.shields.io/badge/AWS%20DevOps%20Navigate-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)]()✅ AWS DevOps Navigate  <br>
-[![AWS Well-Architected Foundations](https://img.shields.io/badge/AWS%20Well--Architected%20Foundations-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)]()✅ AWS Well-Architected Foundations  <br>
-[![AWS Databases Intro](https://img.shields.io/badge/Intro%20to%20Building%20with%20AWS%20Databases-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)]()✅ Introduction to Building with AWS Databases  <br>
 [![AWS Partner Accreditation Technical](https://img.shields.io/badge/AWS%20Partner%20Accreditation%20(Technical)-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)](https://www.credly.com/badges/cf03b227-8682-4197-ba4a-801510fe0540/public_url)✅ AWS Partner: Accreditation (Technical)  <br>
+[![AWS Cloud Economics](https://img.shields.io/badge/AWS%20Cloud%20Economics-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)](https://www.credly.com/badges/fc03f4d4-8c22-4623-b68a-3903af9244d2/public_url)✅ AWS Cloud Economics  <br>
+[![AWS Well-Architected Foundations](https://img.shields.io/badge/AWS%20Well--Architected%20Foundations-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)](https://www.credly.com/badges/0cc7d2ce-1083-4610-9ad2-5fb78adc2fa8/public_url)✅ AWS Well-Architected Foundations  <br>
+[![AWS DevOps Navigate](https://img.shields.io/badge/AWS%20DevOps%20Navigate-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)]()✅ AWS DevOps Navigate  <br>
+[![AWS DevOps Navigate Technical](https://img.shields.io/badge/AWS%20DevOps%20Navigate%20(Technical)-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)]()✅ AWS DevOps Navigate Technical  <br>
+[![AWS IoT Partner Technical](https://img.shields.io/badge/AWS%20IoT%20Partner%20(Technical)-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)]()✅ AWS Partner: IoT on AWS (Technical)  <br>
+[![AWS Databases Intro](https://img.shields.io/badge/Intro%20to%20Building%20with%20AWS%20Databases-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)]()✅ Introduction to Building with AWS Databases  <br>
 [![No-Code ML & Gen AI on AWS](https://img.shields.io/badge/No--Code%20ML%20%26%20Generative%20AI%20on%20AWS-Complete-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=2496ED)]()✅ No-Code Machine Learning and Generative AI on AWS  <br>
 
 

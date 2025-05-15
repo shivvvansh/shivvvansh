@@ -19,9 +19,7 @@ Dive into my journey toward becoming a **DevOps Engineer**! 🚀 I also have exp
 ## 🚀 In Progress : 
 
 [![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20–%20Associate-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=ff9900)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
-
 [![Microsoft Certified: Azure Developer Associate (AZ-204)](https://img.shields.io/badge/Azure%20Developer%20Associate%20(AZ--204)-%230078D4?style=plastic&logo=microsoft-azure&logoColor=white&label=Azure&labelColor=0078D4)](https://learn.microsoft.com/en-us/certifications/azure-developer/)
-
 [![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/Terraform%20Associate-%23000000?style=plastic&logo=terraform&logoColor=white&label=Terraform&labelColor=7F5FB3)](https://www.hashicorp.com/certification/terraform-associate)
 
 -----

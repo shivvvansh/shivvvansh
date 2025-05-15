@@ -16,6 +16,15 @@ Dive into my journey toward becoming a **DevOps Engineer**! 🚀 I also have exp
 [![DevOps Course](https://img.shields.io/badge/DevOps%20Course-DevOps%20Beginners%20to%20Advanced-%23000000?style=plastic&logo=udemy&logoColor=white&label=Udemy&labelColor=A435F0)](http://ude.my/UC-55d606b3-58c7-490f-b3f2-231a8abc66bb)
 
 ----
+## 🚀 In Progress : 
+
+[![AWS Certified Solutions Architect – Associate](https://img.shields.io/badge/AWS%20Certified%20Solutions%20Architect%20–%20Associate-%23000000?style=plastic&logo=amazon-aws&logoColor=white&label=AWS&labelColor=ff9900)](https://aws.amazon.com/certification/certified-solutions-architect-associate/)
+
+[![Microsoft Certified: Azure Developer Associate (AZ-204)](https://img.shields.io/badge/Azure%20Developer%20Associate%20(AZ--204)-%230078D4?style=plastic&logo=microsoft-azure&logoColor=white&label=Azure&labelColor=0078D4)](https://learn.microsoft.com/en-us/certifications/azure-developer/)
+
+[![HashiCorp Certified: Terraform Associate](https://img.shields.io/badge/Terraform%20Associate-%23000000?style=plastic&logo=terraform&logoColor=white&label=Terraform&labelColor=7F5FB3)](https://www.hashicorp.com/certification/terraform-associate)
+
+-----
 ## **🌥️ DevOps Skills**  
 <div style="display: flex; gap: 10px; flex-wrap: wrap;">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">

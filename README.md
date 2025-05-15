@@ -145,7 +145,7 @@ From designing the architecture to migrate data to AWS, to building a service re
 ## **🌐 Let's Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivvvansh)
 
-[![](https://visitcount.itsvg.in/api?id=Kzax01&icon=6&color=5)](https://visitcount.itsvg.in)
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/91/1d/91/911d914aaf6194489a3f5626bed2bd3a.gif" width="500" alt="Cool GIF">
